@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+<orarend>
+    <ora id="01" tipus="Előadás">
+        <datum>2026.04.10</datum>
+        <targy>Webkönyvtárak</targy>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>Informatikaterem 124-es</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>Programtervező informatikus levelező</szak>
+    </ora>
+
+
+    <ora id="02" tipus="Elmélet">
+        <datum>2026.04.17</datum>
+        <targy>Valószínűségszámítás és statisztika</targy>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>Tanterem 130-as</helyszin>
+        <oktato>Kucsinka Katalin</oktato>
+        <szak>Programtervező informatikus levelező</szak>
+    </ora>
+
+
+    <ora id="03" tipus="Gyakorlat">
+        <datum>2026.04.24</datum>
+        <targy>Fordítóprogramok</targy>
+        <idopont>
+            <nap>péntek</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>Online</helyszin>
+        <oktato>Dr. Túri József Attila</oktato>
+        <szak>Programtervező informatikus levelező</szak>
+    </ora>
+
+
+    <ora id="04" tipus="Elmélet">
+        <datum>2026.04.24</datum>
+        <targy>Hálózati architektúrák és protokollok</targy>
+        <idopont>
+            <nap>szombat</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>Online</helyszin>
+        <oktato>Dr. Mileff Péter</oktato>
+        <szak>Programtervező informatikus levelező</szak>
+    </ora>
+
+</orarend>

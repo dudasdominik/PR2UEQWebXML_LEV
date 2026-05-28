@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<vendeglatas>
+    <etterem ekod="e1">
+        <nev>Trófea</nev>
+        <cim>
+            <varos>Budapest</varos>
+            <utca>Visegrádi</utca>
+            <hazszam>3</hazszam>
+        </cim>
+        <csillag>4</csillag>
+    </etterem>
+
+    <etterem ekod="e2">
+        <nev>Gundel</nev>
+        <cim>
+            <varos>Budapest</varos>
+            <utca>Gundel Károly</utca>
+            <hazszam>12</hazszam>
+        </cim>
+        <csillag>5</csillag>
+    </etterem>
+    
+    <foszakacs fkod="f1" ekod="e1">
+        <nev>Fürdös Zé</nev>
+        <eletkor>38</eletkor>
+        <vegzettseg>Főszakács</vegzettseg>
+    </foszakacs>
+
+    <foszakacsok fkod="f2" ekod="e2">
+        <nev>Kapu Tibor</nev>
+        <eletkor>41</eletkor>
+        <vegzettseg>Főszakács</vegzettseg>
+    </foszakacsok>
+    
+    <szakacs szkod="sz1" ekod="e1">
+        <nev>Robi Tupak</nev>
+        <reszleg>Dessertek</reszleg>
+        <vegzettseg>Szakacs</vegzettseg>
+    </szakacs>
+
+    <szakacs szkod="sz2" ekod="e2">
+        <nev>Oláh Zoltán</nev>
+        <reszleg>Levesek</reszleg>
+        <vegzettseg>Szakacs</vegzettseg>
+    </szakacs>
+    
+    
+</vendeglatas>
