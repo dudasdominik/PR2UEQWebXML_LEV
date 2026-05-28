@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<class xmlns:xsi="http://www.w3.org/2001/XMLSchema">
+
+    <hallgato id="01">
+        <keresztnev>Péter</keresztnev>
+        <vezeteknev>Fekete</vezeteknev>
+        <becenev>Petya</becenev>
+        <kor>22</kor>
+    </hallgato>
+
+    <hallgato id="02">
+        <keresztnev>Tibor</keresztnev>
+        <vezeteknev>Zagyva</vezeteknev>
+        <becenev>Tibi</becenev>
+        <kor>24</kor>
+    </hallgato>
+
+    <hallgato id="03">
+        <keresztnev>Lajos</keresztnev>
+        <vezeteknev>Kókány</vezeteknev>
+        <becenev>Lajcsi</becenev>
+        <kor>22</kor>
+    </hallgato>
+
+</class>
